@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently my obtaining my bachelor's in Computer Science at the University of Texas at El Paso
 
+- 💻 Currently working as a full stack web developer at UTEP
+
 - 📫 You can email me through jorgegarcia080808@gmail.com 
 
 <!---
